@@ -37,6 +37,9 @@
       "required": false,
       "pluginOptions": {}
     },
+    "featured": {
+      "type": "boolean"
+    },
     "stack": {
       "type": "json"
     }
